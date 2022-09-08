@@ -1,0 +1,14 @@
+button{
+    border: 5px dotted black;
+    border-radius: 25%;
+    color:darkblue;
+    width: 400px;
+    height: 100px;
+    background-color:cadetblue;
+    font-size: 36pt;
+
+}
+
+h2{
+    font-family:freestyle script;
+}
